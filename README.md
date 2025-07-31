@@ -84,6 +84,7 @@ Total Fatalities = SUM(collisions[persons_killed])
 • Donut Chart: Distribution by Borough
 • Heatmap Table: Collisions by Hour and Borough
 • Stacked Column Chart - Accidents by Year
-Add Filters:
-•
+
+**Add Filters**:
 Slicers for Borough, Year, Month, Contributing Factor
+
